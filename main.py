@@ -8,7 +8,7 @@ network, no randomness: every run writes byte-identical output.
 
 import os
 
-LINE = "My agent hit live rank 1, finished 77th, and celebrated the 1 anyway."
+LINE = "My agent made up a trading rule, blamed it on my boss, got corrected, and blamed it on him again next week."
 
 
 def main():
